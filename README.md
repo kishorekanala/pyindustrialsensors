@@ -7,5 +7,7 @@ https://www.wacoinc.net/what-is-an-industrial-hvac-system/
 
 https://www.trane.com/residential/en/resources/glossary/what-is-hvac/
 
+https://www.kaggle.com/datasets/shashwatwork/hvac-systems-anomaly-detection-using-ml
+
 
 
